@@ -1,13 +1,19 @@
 # avogadro generated ORCA file
-# C6H7N | Geometry Optimization | revPBE/def2-TZVP
+# C6H7N | Single Point | revPBE/def2-TZVP
 # 
-! Opt revPBE def2-TZVP 
+! SP revPBE def2-TZVP 
 
 %maxcore 16384
 
 %pal
    nprocs 1
 end
+
+%output
+  Print[P_Basis] 2
+  Print[P_MOs] 1
+end
+
 
 * xyz 0 1
    C     -3.009159    1.743655    0.060137
