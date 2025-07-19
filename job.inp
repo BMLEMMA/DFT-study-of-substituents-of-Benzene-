@@ -1,7 +1,7 @@
 # avogadro generated ORCA file
-# C6H6Br | Frequencies | revPBE/def2-TZVP
+# C6H6Br | Geometry Optimization | revPBE/def2-TZVP
 # 
-! Opt Freq revPBE def2-TZVP 
+! Opt revPBE def2-TZVP 
 
 %maxcore 16384
 
