@@ -1,1 +1,1 @@
-This project uses ORCA and Avogadro to assess the differences in energy levels and vibrational frequency results between different substituent groups on Benzene. All expected results were observed with small differences. The full report is attached to this project!
+This project uses ORCA and Avogadro to assess the differences in energy levels, geometry optimizations, and vibrational frequency results between different substituent groups on Benzene. All expected results were observed with small differences. The full report is attached to this project!
